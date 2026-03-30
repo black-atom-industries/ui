@@ -27,7 +27,7 @@ See `docs/design-language.md` for the full spec. Key principles:
 
 ## Project Tracking
 
-Issues tracked in [Linear](https://linear.app/black-atom-industries) under the **ui** project.
+Issues tracked in [GitHub Issues](https://github.com/black-atom-industries/ui/issues).
 
 ## Sources of Truth
 
